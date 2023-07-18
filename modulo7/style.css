@@ -1,0 +1,7 @@
+body {
+    background: darkgray;
+}
+
+.my-4, .lead, .form-check-label{
+    color: white;
+}

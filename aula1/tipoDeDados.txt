@@ -1,0 +1,16 @@
+tipo de dados em JS 
+
+number = 1,2,3,4,9,3.14 sao numeros (int e float)
+
+string = igual a sempre ' ' ou " "
+
+boolean = verdadeiro e falso 
+
+null = variavel sem valor (parecido com undefined )
+
+undefined = valor nulo tbm, mas e colocado automaticamente pelo js 
+
+OBJECTS = array,datas etc.. 
+
+bigInt = numeros inteiros muito grandes 
+
